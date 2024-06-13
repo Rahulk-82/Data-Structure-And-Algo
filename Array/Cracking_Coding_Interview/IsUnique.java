@@ -4,7 +4,6 @@ class IsUnique{
 	public static void main(String []args){
 		String str="abcdea";
 		System.out.println(isUnique(str));
-				
 	}
 	public static boolean isUnique(String str){
 		int counter=0;
