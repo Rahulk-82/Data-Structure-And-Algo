@@ -1,4 +1,4 @@
-package Data_Structure.Array.Cracking_Coding_Interview;// for permutation length of both string should be same. and the count of each character in both string shold be same.
+package Data_Structure.Array.Cracking_Coding_Interview.Array;// for permutation length of both string should be same. and the count of each character in both string shold be same.
 //1. HashMap
 //2. Array with length of ASCII characters set.
 

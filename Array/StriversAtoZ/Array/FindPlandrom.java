@@ -1,4 +1,4 @@
-package Data_Structure.Array.StriversAtoZ;
+package Data_Structure.Array.StriversAtoZ.Array;
 
 public class FindPlandrom {
     public static void main(String []args){

@@ -1,4 +1,4 @@
-package Data_Structure.Array.StriversAtoZ;
+package Data_Structure.Array.StriversAtoZ.Array;
 
 // extract last digit and then add the number to multiply of 10 with number.
 

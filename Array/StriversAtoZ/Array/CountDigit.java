@@ -1,4 +1,4 @@
-package Data_Structure.Array.StriversAtoZ;
+package Data_Structure.Array.StriversAtoZ.Array;
 
 //log10(N) will give number to which we need to raise 10 so that it will become equal to N
 //we do +1 for possibility that N itself is power of 10;

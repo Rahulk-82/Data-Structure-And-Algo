@@ -1,4 +1,4 @@
-package Data_Structure.Array.Cracking_Coding_Interview;
+package Data_Structure.Array.Cracking_Coding_Interview.Array;
 
 class OneWay{
 
